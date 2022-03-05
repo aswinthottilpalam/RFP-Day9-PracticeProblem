@@ -1,0 +1,5 @@
+E:\desktop\newpgm\UC7_8_EmpWage\UC7_8_EmpWage\obj\Debug\net5.0\UC7_8_EmpWage.csproj.AssemblyReference.cache
+E:\desktop\newpgm\UC7_8_EmpWage\UC7_8_EmpWage\obj\Debug\net5.0\UC7_8_EmpWage.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop\newpgm\UC7_8_EmpWage\UC7_8_EmpWage\obj\Debug\net5.0\UC7_8_EmpWage.AssemblyInfoInputs.cache
+E:\desktop\newpgm\UC7_8_EmpWage\UC7_8_EmpWage\obj\Debug\net5.0\UC7_8_EmpWage.AssemblyInfo.cs
+E:\desktop\newpgm\UC7_8_EmpWage\UC7_8_EmpWage\obj\Debug\net5.0\UC7_8_EmpWage.csproj.CoreCompileInputs.cache
